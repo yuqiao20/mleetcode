@@ -5,3 +5,4 @@ mleetcode.iml
 .idea/misc.xml
 .idea/codeStyles/codeStyleConfig.xml
 /.idea/.gitignore
+*.class
